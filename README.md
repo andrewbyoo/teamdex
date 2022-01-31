@@ -15,7 +15,7 @@ As a fan of the Pokemon series, I want a tool for finding and storing the info o
 - [Collaborators](#collaborators)
 - [License](#license)
 - [Features](#features)
-- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 - To get the app on your local machine:
@@ -60,3 +60,8 @@ This application is covered under the MIT license.
 - Create a login that holds user team data
 - Select pokemon for your teams based on the game being played
 - Save created teams to be viewed on the user dashboard
+
+## Questions
+To view more of my projects, you can visit my GitHub page at [andrewbyoo](https://github.com/andrewbyoo).
+
+If you have questions, email me at [andrewbyoo@gmail.com](mailto:andrewbyoo@gmail.com).
